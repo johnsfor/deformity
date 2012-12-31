@@ -1,0 +1,44 @@
+*{font-size:12px; font-family:Tahoma,Verdana,微软雅黑,新宋体}
+body{background:#D2E0F2; }
+a{ color:Black; text-decoration:none;}
+a:hover{ color:Red; text-decoration:underline;}
+.textbox03 {border: #878787 1px solid;padding: 4px 3px;font:Verdana, Geneva, sans-serif,宋体;line-height: 14px; background-color: #fff;  height: auto; font-size: 14px;  font-weight: bold; width: 190px; }
+
+.txt01{font:Verdana, Geneva, sans-serif,宋体;padding:3px 2px 2px 2px; border-width:1px; border-color:#ddd;  color:#000;}
+.txt {border: #878787 1px solid;padding: 4px 3px;font:Verdana, Geneva, sans-serif,宋体;line-height: 14px; background-color: #fff;  height: auto; font-size: 14px;}
+.footer{text-align:center;color:#15428B; margin:0px; padding:0px;line-height:23px; font-weight:bold;}
+
+.head a{color:White;text-decoration:underline;}
+.formTable { margin-right: auto; margin-left: auto; border-top: #99b2c9 solid 1px; border-left: #99b2c9 solid 1px; text-align: center; font-size: 12px; }
+.formTable tbody { border: 1px solid #99b2c9; }
+.formTable tbody tr td { border: #99b2c9 solid 1px; text-align: left; padding: 2px; line-height: 20px; background-color: #ffffff; }
+.formTable tbody tr th { white-space: nowrap; text-align: right; font-weight: normal; background-color: #f6f9fa; border: #99b2c9 solid 1px; padding: 2px; }
+.formTable thead tr td { text-align: center; border: 1px solid #f6f9fa; line-height: 20px; font-weight: normal; padding: 2px; }
+.formTable thead tr th { text-align: center; background: #d6e6fd repeat-x top left; border-top: #FFF solid 1px; border-left: #FFF solid 1px; line-height: 20px; font-weight: normal; padding: 2px; font-size: 12px; border-bottom: 1px solid #89a9d5; border-right: 1px solid #89a9d5; }
+.formTable tbody tr td table tbody tr th { border:hidden; background-color: #fff; }
+.formTable tbody tr td table tbody tr td { border:hidden; }
+.easyui-accordion ul{list-style-type:none;margin:0px; padding:10px;}
+.easyui-accordion ul li{ padding:0px;}
+.easyui-accordion ul li a{line-height:24px;}
+.easyui-accordion ul li div{margin:2px 0px;padding-left:10px;padding-top:2px;}
+.easyui-accordion ul li div.hover{border:1px dashed #99BBE8; background:#E0ECFF;cursor:pointer;}
+.easyui-accordion ul li div.hover a{color:#416AA3;}
+.easyui-accordion ul li div.selected{border:1px solid #99BBE8; background:#E0ECFF;cursor:default;}
+.easyui-accordion ul li div.selected a{color:#416AA3; font-weight:bold;}
+
+
+
+.icon{ background:url(../images/tabicons.png) no-repeat;width:18px; line-height:18px; display:inline-block;}
+.icon-sys{ background:url(../images/directory.png) no-repeat;}
+.icon-add{background-position: -19px 0px;}
+.icon-nav{background-position: -100px -18px;}
+.icon-users{background-position: -100px -480px;}
+.icon-role{background-position: -360px -200px;}
+.icon-set{background-position: -380px -200px;}
+.icon-log{background-position: -380px -80px;}
+.icon-class{background-position: -60px -360px;}
+.icon-school{background-position: -200px -220px;}
+.icon-type{background-position: -180px -80px;}
+.icon-time{background-position: 0px -100px;}
+
+

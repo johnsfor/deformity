@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+/* bg */
+.p5{padding:5px;}
+.bg001 { background:url(images-new/tab001.png) no-repeat left bottom; margin: 0px; padding: 0px;  height: 23px; line-height:23px; }
+.bg002 { background:url(images-new/bg001.png) repeat-x 0 0; margin: 0px; padding:0px;}
+.bg003 { background:url(images-new/tab002.png) no-repeat left bottom; margin: 0px; padding: 0px;  height: 23px; line-height:23px; }
+.bg004 { background:url(images-new/bg002.png) repeat-x 0 0px; line-height: 25px; height: 25px; }
+.bg005 { background-color:#e7f5e8; }
+.bg006 { background-image:url(images-new/bg003.png);}
+.bg007 { background:url(images-new/bg004.png) repeat-x 0 0; margin: 0px; padding:0px; height:72px;}
+/* btn */
+.btn001 { background: url(images-new/ico001.png) no-repeat 10px 3px; height: 16px; width:16px; border: none; cursor: pointer; padding-left:10px;}
+.btn001-b { background: url(images-new/ico001.png) no-repeat 10px 3px; height: 16px; width:16px; border: none; cursor: pointer; padding-left:10px;}
+.btn001-t { background: url(images-new/ico101.png) no-repeat 10px 3px; height: 16px; width:16px; border: none; cursor: pointer; padding-left:10px;}
+.btn002 { background: url(images-new/ico002.png) no-repeat 10px 3px; height: 16px; width:16px; border: none; cursor: pointer; padding-left:10px;}
+.btn003 { background: url(images-new/ico003.gif) no-repeat 0px  0px; height: 18px; width:19px; border: none; cursor: pointer; padding:0px;}
+.btn004 { background: url(images-new/ico004.gif) no-repeat 0px  0px; height: 18px; width:19px; border: none; cursor: pointer; padding:0px;}
+.btn005 { background: url(images-new/ico005.gif) no-repeat 0px  0px; height: 18px; width:19px; border: none; cursor: pointer; padding:0px;}
+.btn006 { background: url(images-new/ico006.gif) no-repeat 0px  0px; height: 18px; width:19px; border: none; cursor: pointer; padding:0px;}
+.btn007 { background: url(images-new/btn001.gif) no-repeat 0px  24px; height: 43px; width:99px; border: none; cursor: pointer; padding-left:16px;line-height:43px;}
+.btn008 { background: url(images-new/btn002.gif) no-repeat 0px  7px; height: 37px; width:95px; border: none; cursor: pointer; padding-left:16px; line-height:37px;}
+.btn009 { background: url(images-new/btn003.gif) no-repeat 0px  23px; height: 44px; width:100px; border: none; cursor: pointer; padding-left:16px; line-height:44px;}
+.btn010 { background: url(images-new/btn002.gif) no-repeat 0px  30px; height: 37px; width:95px; border: none; cursor: pointer; padding-left:16px; line-height:37px;}
+.btn011 { background: url(images-new/ico011.png) no-repeat 20px  2px; height: 19px; border: none; cursor: pointer; padding:0px 0px 0px 50px;}
+.btn012 { background: url(images-new/ico012.png) no-repeat 20px  2px; height: 19px; border: none; cursor: pointer; padding:0px 0px 0px 50px;}
+.btn013 { background: url(images-new/ico013.png) no-repeat 20px  2px; height: 19px; border: none; cursor: pointer; padding:0px 0px 0px 50px;}
+.btn014 { background: url(images-new/ico014.png) no-repeat 20px  2px; height: 19px; border: none; cursor: pointer; padding:0px 0px 0px 50px;}
+.btn0110 { background: url(images-new/ico007.png) no-repeat 20px  2px; height: 19px; border: none; cursor: pointer; padding:0px 0px 0px 50px;}
+.btn0120 { background: url(images-new/ico008.png) no-repeat 20px  6px; height: 19px; border: none; cursor: pointer; padding:0px 0px 0px 50px;}
+.btn0130 { background: url(images-new/ico009.png) no-repeat 20px  4px; height: 19px; border: none; cursor: pointer; padding:0px 0px 0px 50px;}
+.btn0140 { background: url(images-new/ico010.png) no-repeat 20px  6px; height: 19px; border: none; cursor: pointer; padding:0px 0px 0px 50px;}
+.btn015 { background: url(images-new/ico029.png) no-repeat 0px  3px; height: 16px; width:16px; border: none; cursor: pointer; padding:0px;}
+.btn016 { background: url(images-new/ico030.png) no-repeat 0px  3px; height: 16px; width:16px; border: none; cursor: pointer; padding:0px;}
+/* daohang */
+.ico001{ background: url(images-new/ico015.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico002{ background: url(images-new/ico016.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico003{ background: url(images-new/ico017.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico004{ background: url(images-new/ico018.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico005{ background: url(images-new/ico019.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico006{ background: url(images-new/ico020.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico007{ background: url(images-new/ico021.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico0010{ background: url(images-new/ico022.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico0020{ background: url(images-new/ico023.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico0030{ background: url(images-new/ico024.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico0040{ background: url(images-new/ico025.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico0050{ background: url(images-new/ico026.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico0060{ background: url(images-new/ico027.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+.ico0070{ background: url(images-new/ico028.png) no-repeat 15px  0px; height: 38px; width:84px; padding:6px 0px 0px 15px;}
+/* font */
+.c1 { color:#003366;}
+.c2 { color:#0a74bb;}          
+.underline { text-decoration: underline; }
+.border001 { border:1px solid #c3e0f2; border-top:none;}
+.border002 { border:1px solid #b5cee1;}
+.line001 {background-color:#e6f1f6;}
+
+/* table */
+.table001{height:20px; line-height:20px; padding:0px; margin:0px;}
+.table001 tr th{text-align:right; padding-left:0px;}
+.table001 tr td{text-align:left; padding-left:5px;}
+.table002{padding:0px; margin:0px; padding-top:5px;}
+.table002 tr th{text-align:right; padding-left:0px; padding-top:5px;}
+.table002 tr td{text-align:left; padding-left:5px; padding-top:5px;}
+.table003{height:21px; line-height:21px; padding:0px; margin:0px; }
+.table003 tr th{text-align:right; padding-left:0px;}
+.table003 tr td{text-align:left; padding-left:5px;}
+.table004{height:24px; line-height:24px; padding:0px; margin:0px;  border-left:1px solid #c3e0f2;}
+.table004 tr td{text-align:left; padding-left:20px;}
+.table005 { height:50px; line-height:50px;}

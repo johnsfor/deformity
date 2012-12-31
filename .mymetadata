@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="deformity"
+  id="myeclipse.1339599981780"
+  context-root="/deformity"
+  j2ee-spec="5.0"
+  archive="deformity.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
